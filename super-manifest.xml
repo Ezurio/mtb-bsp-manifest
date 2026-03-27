@@ -1,0 +1,7 @@
+<super-manifest version="2.0">
+    <board-manifest-list>
+        <board-manifest>
+            <uri>https://raw.githubusercontent.com/Ezurio/mtb-bsp-manifest/main/mtb-bsp-manifest.xml</uri>
+        </board-manifest>
+    </board-manifest-list>
+</super-manifest>
