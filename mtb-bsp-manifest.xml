@@ -17,6 +17,10 @@
                 <num>v0.1.99</num>
                 <commit>v0.1.99</commit>
             </version>
+            <version tools_min_version="3.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen4">
+                <num>v0.2.99</num>
+                <commit>release-v0.2.99</commit>
+            </version>
         </versions>
     </board>
 </boards>
